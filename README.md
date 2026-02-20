@@ -1,4 +1,4 @@
-# adityasam0612# Hey, I'm Aditya Sambhare 👋
+# Hey, I'm Aditya Sambhare 👋
 
 🎓 Master's in ICT & Internet Engineering — University of Rome Tor Vergata  
 💼 Junior Full-Stack Developer | Cloud-Native | Microservices | React & Vue.js  
